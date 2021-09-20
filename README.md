@@ -27,4 +27,11 @@ description - Provides Covid Vaccination slots for a specific Pin Code( India on
 ### Page After Fetching the API(Output)
 ![image](https://user-images.githubusercontent.com/42883586/134010906-31eaefa5-da4a-4550-8ce8-fcb3d775af23.png)
 
+<br/>
+
+## Resources for Reference
+
+### https://flutter.dev/docs/get-started/codelab
+### https://flutter.dev/docs/cookbook
+### https://flutter.dev/docs
 
