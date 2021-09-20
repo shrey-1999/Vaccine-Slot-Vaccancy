@@ -1,4 +1,4 @@
-# Covid Vaccinnation Slot
+# Vaccine Slot Vaccancy
 description - Provides Covid Vaccination slots for a specific Pin Code( India only )
 
 
