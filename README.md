@@ -14,8 +14,10 @@ For help getting started with Flutter, view
 samples, guidance on mobile development, and a full API reference.
 
 
+
 ## Flow Chart
-![image](https://user-images.githubusercontent.com/42883586/134027811-d27e4b0f-8ac4-48a5-82ab-61ea4d1af2a7.png)
+![image](https://user-images.githubusercontent.com/42883586/134031815-33e91c4d-3605-4500-af6b-832a60937931.png)
+
 
 
 ## ScreenShots
