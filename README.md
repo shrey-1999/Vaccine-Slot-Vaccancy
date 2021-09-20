@@ -1,4 +1,4 @@
-# covin_app
+# Covid Vaccine Slot
 
 A new Flutter application.
 
