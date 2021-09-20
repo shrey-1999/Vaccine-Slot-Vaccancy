@@ -1,6 +1,6 @@
 # Covid Vaccine Slot
 
-description - Provides Vaccine slots for a specific Pin Code( for India )
+description - Provides Covid Vaccination slots for a specific Pin Code( India only )
 
 ## Getting Started
 
@@ -15,6 +15,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## ScreenShots
+
+###
 ![image](https://user-images.githubusercontent.com/42883586/134010857-f4964d72-cb8b-46cb-9511-b7e277afa023.png)
 
 ![image](https://user-images.githubusercontent.com/42883586/134010906-31eaefa5-da4a-4550-8ce8-fcb3d775af23.png)
