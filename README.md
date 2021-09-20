@@ -5,7 +5,8 @@ description - Provides Covid Vaccination slots for a specific Pin Code( India on
 
 
 ## Live Link
-### https://vaccine-slot-vaccancy.web.app/
+### https://vaccine-slot-vaccancy.web.app/( Deployed on firebase )
+
 
 
 <br/>
